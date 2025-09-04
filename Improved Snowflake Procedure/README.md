@@ -1,6 +1,6 @@
 # Legacy Code Translation & Optimization: Azure → Snowflake
 
-This project demonstrates the translation and optimization of a **3,000+ line legacy codebase** from Azure to Snowflake, including major efficiency improvements and refactoring.
+This project demonstrates the translation and optimization of a **3,000+ line legacy codebase** from Azure to Snowflake, including major efficiency improvements and refactoring. I was permitted only to take a part of the code I changed. 
 
 ## Overview
 
